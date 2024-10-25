@@ -1,0 +1,7 @@
+body {text-align: center;background-color: rgb(230, 224, 217);}
+header {padding-bottom: 30px; background-color: blueviolet; margin-top: 40px; margin-left: 300px; margin-right: 300px;color: yellow; box-shadow: 0px 0px 15px rgb(0, 0, 0); text-shadow: 0px 0px 5px whitesmoke;border-radius: 15px;}
+main {padding-bottom: 30px; box-sizing: border-box; margin-top: 40px; background-color: brown; margin-left: 300px; margin-right: 300px; color: yellow;box-shadow: 0px 0px 15px rgb(0, 0, 0); text-shadow: 0px 0px 5px whitesmoke;border-radius: 15px;}
+footer {padding-bottom: 30px; background-color: rgb(27, 184, 105); margin-top: 40px; margin-left: 300px; margin-right: 300px;color: yellow; box-shadow: 0px 0px 15px rgb(0, 0, 0); text-shadow: 0px 0px 5px whitesmoke;border-radius: 15px;}
+#trom {width: 400px;border-radius: 15px;box-shadow: 0px 0px 15px black;}
+#gil {width: 400px;border-radius: 15px;box-shadow: 0px 0px 15px black;}
+#sergio {width: 400px;border-radius: 15px;box-shadow: 0px 0px 15px black;}
